@@ -1,6 +1,6 @@
 ## My Scripts
 These scripts were written in my work environment, so they are specific and won't work without editing.
-So here is lis and brief description of each one
+So here is list and brief description of each one
 
 ### ADcheckMenu
 Script can be used to create tool with menu. It have example one. I'm using it to check on-premises AD in my company
